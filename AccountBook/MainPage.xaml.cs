@@ -98,9 +98,11 @@ namespace TimeCost
             Storyboard storyboard = new Storyboard();
             storyboard.Children.Add(anima);
             storyboard.Begin();
+
             storyboard.Completed+=add_Completed;
         }
 
+        //完成旋转之后，进入添加页面
         private void add_Completed(object sender, object e)
         {
             Frame.Navigate(typeof(AddAccount));
