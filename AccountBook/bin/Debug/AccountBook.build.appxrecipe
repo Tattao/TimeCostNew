@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ORACLE</Machine>
+    <WindowsUser>Jain</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>27751c5a-d7d4-49fb-bebb-92abdc46286c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\bin\Debug\AccountBook.exe">
+      <PackagePath>AccountBook.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\chart\QuickChartsWP.dll">
+      <PackagePath>QuickChartsWP.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\Images\appbar.add.rest.png">
+      <PackagePath>Images\appbar.add.rest.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\Images\appbar.cancel.rest.png">
+      <PackagePath>Images\appbar.cancel.rest.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\Images\appbar.finish.rest.png">
+      <PackagePath>Images\appbar.finish.rest.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\Images\appbar.First.rest.png">
+      <PackagePath>Images\appbar.First.rest.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\Images\appbar.Last.rest.png">
+      <PackagePath>Images\appbar.Last.rest.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\Images\appbar.Search.png">
+      <PackagePath>Images\appbar.Search.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\Images\catelogo.png">
+      <PackagePath>Images\catelogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\Images\dfb.png">
+      <PackagePath>Images\dfb.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\Images\inlogo.png">
+      <PackagePath>Images\inlogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\Images\mlogo.png">
+      <PackagePath>Images\mlogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\Images\outlogo.png">
+      <PackagePath>Images\outlogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\Images\piclogo.png">
+      <PackagePath>Images\piclogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\Images\searchlogo.png">
+      <PackagePath>Images\searchlogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\Images\setlogo.png">
+      <PackagePath>Images\setlogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\Images\ylogo.png">
+      <PackagePath>Images\ylogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\Skin\logo.png">
+      <PackagePath>Skin\logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\Skin\PageBG.jpg">
+      <PackagePath>Skin\PageBG.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\Skin\PanoramaBG.jpg">
+      <PackagePath>Skin\PanoramaBG.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\bin\Debug\AddAccount.xbf">
+      <PackagePath>AddAccount.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\bin\Debug\AccountBook.xr.xml">
+      <PackagePath>AccountBook.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\chart\QuickChartsWP\QuickChartsWP.xr.xml">
+      <PackagePath>QuickChartsWP\QuickChartsWP.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\chart\QuickChartsWP\Themes\AreaGraph.xbf">
+      <PackagePath>QuickChartsWP\Themes\AreaGraph.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\chart\QuickChartsWP\Themes\Balloon.xbf">
+      <PackagePath>QuickChartsWP\Themes\Balloon.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\chart\QuickChartsWP\Themes\CategoryAxis.xbf">
+      <PackagePath>QuickChartsWP\Themes\CategoryAxis.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\chart\QuickChartsWP\Themes\ColumnGraph.xbf">
+      <PackagePath>QuickChartsWP\Themes\ColumnGraph.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\chart\QuickChartsWP\Themes\Generic.xbf">
+      <PackagePath>QuickChartsWP\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\chart\QuickChartsWP\Themes\Indicator.xbf">
+      <PackagePath>QuickChartsWP\Themes\Indicator.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\chart\QuickChartsWP\Themes\Legend.xbf">
+      <PackagePath>QuickChartsWP\Themes\Legend.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\chart\QuickChartsWP\Themes\LineGraph.xbf">
+      <PackagePath>QuickChartsWP\Themes\LineGraph.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\chart\QuickChartsWP\Themes\PieChart.xbf">
+      <PackagePath>QuickChartsWP\Themes\PieChart.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\chart\QuickChartsWP\Themes\SerialChart.xbf">
+      <PackagePath>QuickChartsWP\Themes\SerialChart.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\chart\QuickChartsWP\Themes\Slice.xbf">
+      <PackagePath>QuickChartsWP\Themes\Slice.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\chart\QuickChartsWP\Themes\ValueAxis.xbf">
+      <PackagePath>QuickChartsWP\Themes\ValueAxis.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\chart\QuickChartsWP\Themes\ValueGrid.xbf">
+      <PackagePath>QuickChartsWP\Themes\ValueGrid.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

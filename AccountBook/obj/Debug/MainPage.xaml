@@ -1,0 +1,94 @@
+﻿<Page
+    x:Class="TimeCost.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TimeCost.Converter"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.Background>
+        <ImageBrush ImageSource="Skin/PageBG.jpg" />
+    </Page.Background>
+    <Page.Resources>
+        <Style x:Key="ButtonStyle1" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid x:Name="Grid" Background="#FFEB6416" Height="160" Width="160" Margin="0, 0, 12, 0" >
+                            <Border x:Name="Border"   >
+                                <ContentPresenter x:Name="ContentPresenter" Foreground="{TemplateBinding Foreground}"
+                              
+                                Content="{TemplateBinding Content}" ContentTemplate="{TemplateBinding ContentTemplate}" />
+                            </Border>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <local:VoucherDescConverter  x:Key="VoucherDescConverter"/>
+        <local:VoucherTypeConverter  x:Key="VoucherTypeConverter"/>
+        <CollectionViewSource x:Name="cvs1" />
+    </Page.Resources>
+
+    <Grid  Background="Transparent">
+        <Hub>
+            <HubSection x:Name="_1" Height="629" Width="370">
+                <DataTemplate>
+                    <Grid>
+
+                        <TextBlock Text="今日共支出" Foreground="#FF171727" FontSize="18" Margin="0,10,261,547"  />
+                        <TextBox x:Name="txtExpenses" Foreground="#FFEB6416" Text="{Binding SummaryExpenses }" HorizontalAlignment="Left" Margin="95,0,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Height="38" Width="74"/>
+
+                        <TextBlock Text="今日共收入" Foreground="#FF171727" FontSize="18" HorizontalAlignment="Right" Width="92" Margin="0,10,85,547" />
+                        <TextBox x:Name="txtIncome" Foreground="#FFEB6416" Text="{Binding SummaryIncome}" HorizontalAlignment="Right" TextWrapping="Wrap" Margin="0,0,0,0" VerticalAlignment="Top" Width="80" Height="38"/>
+
+                        <ScrollViewer x:Name="add">
+                            <StackPanel x:ConnectionId='2'  HorizontalAlignment="Center" Height="200"  VerticalAlignment="Center" 
+                    Width="200" Margin="0,0,0,300"  RenderTransformOrigin="0.5,0.5"                             >
+                                <StackPanel.RenderTransform>
+                                    <RotateTransform/>
+                                </StackPanel.RenderTransform>
+                                <!--创建一个圆-->
+                                <Ellipse Fill="Red" Height="100" Width="100" Margin="0,50,0,0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+                                <!--<Polygon Points="195,205 195,205 155,145 155,245 145,205 145,205 105,195 105,195 145,155 145,155 155, 195 155,195" Fill="Blue"></Polygon>-->
+
+                                <Ellipse Fill="White" Height="90" Width="90" Margin="0,-100,0,0"/>
+                                <!--十字架 添加按钮-->
+                                <!--<Polygon Points="195,205 195,205 155,145 155,245 145,205 145,205 105,195 105,195 145,155 145,155 155, 195 155,195" Fill="Blue"></Polygon>-->
+                                <Ellipse Fill="SandyBrown" Height="17" Width="85" Margin="0,-100,0,0"/>
+                                <Ellipse Fill="SandyBrown" Height="85" Width="17" Margin="0,-100,0,0"/>
+                            </StackPanel>
+                            <!--<StackPanel HorizontalAlignment="Left" Height="302"  VerticalAlignment="Top" Width="400" Margin="0,338,0,0"/>-->
+                        </ScrollViewer>
+                        <StackPanel >
+                            <ListView x:ConnectionId='1'   HorizontalAlignment="Left" Height="335" Margin="-20,250,-37.167,0" VerticalAlignment="Top" Width="398" ItemsSource="{Binding Source={StaticResource cvs1}}"                                                                          >
+                                <ListView.ItemTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Orientation="Horizontal" Margin="12,0,0,0">
+                                            <TextBlock  Foreground="#FFEB6416" FontSize="20"  Text="{Binding Type,  Converter={StaticResource VoucherTypeConverter}}" TextWrapping="NoWrap" HorizontalAlignment="Left" VerticalAlignment="Center" Width="50" />
+                                            <TextBlock  Foreground="#FFEB6416" FontSize="30" Text="{Binding Money}" TextWrapping="NoWrap" HorizontalAlignment="Left" VerticalAlignment="Center" Width="55" />
+                                            <TextBlock  Foreground="#FFEB6416"  Text="{Binding Desc,  Converter={StaticResource VoucherDescConverter}}" TextWrapping="NoWrap" HorizontalAlignment="Left" TextAlignment="Right" VerticalAlignment="Center" Width="100" />
+                                            <TextBlock  Foreground="#FFEB6416" FontSize="12" Text="{Binding DT}" TextWrapping="NoWrap" HorizontalAlignment="Left" VerticalAlignment="Center" Width="114"  />
+                                            <TextBlock  Foreground="#FFEB6416" FontSize="20" Text="{Binding Category}" TextWrapping="NoWrap" TextAlignment="Right" HorizontalAlignment="Right" VerticalAlignment="Center" Width="60"   />
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+                        </StackPanel>
+                    </Grid>
+                </DataTemplate>
+            </HubSection>
+            <HubSection x:Name="_2">
+                <DataTemplate>
+                    <Grid>
+                        <ScrollViewer>
+                            
+                        </ScrollViewer>
+                    </Grid>
+                </DataTemplate>
+            </HubSection>
+        </Hub>
+    </Grid>
+</Page>
+

@@ -1,0 +1,229 @@
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\App.g.i.cs
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\App.g.cs
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\MainPage.g.i.cs
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\MainPage.g.cs
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\App.xaml
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\MainPage.xaml
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\App.xbf
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\MainPage.xbf
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\XamlSaveStateFile.xml
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\bin\Debug\App.xbf
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\bin\Debug\MainPage.xbf
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\bin\Debug\AccountBook.xr.xml
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\bin\Debug\AccountBook.exe
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\bin\Debug\AccountBook.pdb
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\bin\Debug\resources.pri
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\bin\Debug\AppxManifest.xml
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\bin\Debug\AccountBook.build.appxrecipe
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\AccountBook.exe
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\AccountBook.pdb
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\priconfig.xml
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\priconfig.xml.intermediate
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\layout.resfiles
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\layout.resfiles.intermediate
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\resources.resfiles
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\resources.resfiles.intermediate
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\pri.resfiles
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\pri.resfiles.intermediate
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\qualifiers.txt
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\qualifiers.txt.intermediate
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\ProjectArchitectures.txt
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\AddAccount.g.i.cs
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\AddAccount.g.cs
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\AddAccount.xaml
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\AddAccount.xbf
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\ChartPage.g.i.cs
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\ChartPage.g.cs
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\MouthReport.g.i.cs
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\MouthReport.g.cs
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\Search.g.i.cs
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\Search.g.cs
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\YearReport.g.i.cs
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\YearReport.g.cs
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\ChartPage.xaml
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\MouthReport.xaml
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\Search.xaml
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\YearReport.xaml
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\ChartPage.xbf
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\MouthReport.xbf
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\Search.xbf
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\YearReport.xbf
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\bin\Debug\AddAccount.xbf
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\bin\Debug\ChartPage.xbf
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\bin\Debug\MouthReport.xbf
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\bin\Debug\Search.xbf
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\bin\Debug\YearReport.xbf
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\bin\Debug\QuickChartsWP.dll
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\AccountBook.csproj.GenerateResource.Cache
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\bin\Debug\QuickChartsWP.pdb
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\bin\Debug\QuickChartsWP.pri
+C:\Users\zhenglin\Desktop\AccountBook\AccountBook\obj\Debug\QuickChartsWP.pri.xml
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\App.xbf
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\AddAccount.xbf
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\ChartPage.xbf
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\MainPage.xbf
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\MouthReport.xbf
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\Search.xbf
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\YearReport.xbf
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\AccountBook.xr.xml
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\AccountBook.exe
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\AccountBook.pdb
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\resources.pri
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\AppxManifest.xml
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\AccountBook.build.appxrecipe
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\QuickChartsWP.dll
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\QuickChartsWP.pdb
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\QuickChartsWP.pri
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\App.g.i.cs
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\App.g.cs
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AddAccount.g.i.cs
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AddAccount.g.cs
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\ChartPage.g.i.cs
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\ChartPage.g.cs
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\MainPage.g.i.cs
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\MainPage.g.cs
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\MouthReport.g.i.cs
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\MouthReport.g.cs
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\Search.g.i.cs
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\Search.g.cs
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\YearReport.g.i.cs
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\YearReport.g.cs
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\XamlTypeInfo.g.cs
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\App.xaml
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AddAccount.xaml
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\ChartPage.xaml
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\MainPage.xaml
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\MouthReport.xaml
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\Search.xaml
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\YearReport.xaml
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\App.xbf
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AddAccount.xbf
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\ChartPage.xbf
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\MainPage.xbf
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\MouthReport.xbf
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\Search.xbf
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\YearReport.xbf
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\XamlSaveStateFile.xml
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AccountBook.exe
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AccountBook.pdb
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AccountBook.csproj.GenerateResource.Cache
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\priconfig.xml
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\priconfig.xml.intermediate
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\layout.resfiles
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\layout.resfiles.intermediate
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\resources.resfiles
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\resources.resfiles.intermediate
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\pri.resfiles
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\pri.resfiles.intermediate
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\qualifiers.txt
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\qualifiers.txt.intermediate
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\QuickChartsWP.pri.xml
+E:\wp8深入浅出\《深入浅出Windows Phone 8.1应用开发》\深入浅出Windows Phone 8.1应用开发_稿件整理20140409\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\ProjectArchitectures.txt
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\App.xbf
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\AddAccount.xbf
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\ChartPage.xbf
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\MainPage.xbf
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\MouthReport.xbf
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\Search.xbf
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\YearReport.xbf
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\AccountBook.xr.xml
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\AccountBook.exe
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\AccountBook.pdb
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\resources.pri
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\AppxManifest.xml
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\AccountBook.build.appxrecipe
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\QuickChartsWP.dll
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\QuickChartsWP.pdb
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\bin\Debug\QuickChartsWP.pri
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AccountBook.csprojResolveAssemblyReference.cache
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\App.g.i.cs
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\App.g.cs
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AddAccount.g.i.cs
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AddAccount.g.cs
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\ChartPage.g.i.cs
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\ChartPage.g.cs
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\MainPage.g.i.cs
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\MainPage.g.cs
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\MouthReport.g.i.cs
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\MouthReport.g.cs
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\Search.g.i.cs
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\Search.g.cs
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\YearReport.g.i.cs
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\YearReport.g.cs
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\App.xaml
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AddAccount.xaml
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\ChartPage.xaml
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\MainPage.xaml
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\MouthReport.xaml
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\Search.xaml
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\YearReport.xaml
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\App.xbf
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AddAccount.xbf
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\ChartPage.xbf
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\MainPage.xbf
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\MouthReport.xbf
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\Search.xbf
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\YearReport.xbf
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AccountBook.exe
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AccountBook.pdb
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AccountBook.csproj.GenerateResource.Cache
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\priconfig.xml
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\priconfig.xml.intermediate
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\layout.resfiles
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\layout.resfiles.intermediate
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\resources.resfiles
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\resources.resfiles.intermediate
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\pri.resfiles
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\pri.resfiles.intermediate
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\qualifiers.txt
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\QuickChartsWP.pri.xml
+C:\Users\Jain\Downloads\深入浅出Windows Phone 8.1应用开发(Runtime框架)_源代码 (1)\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\ProjectArchitectures.txt
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\bin\Debug\App.xbf
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\bin\Debug\AddAccount.xbf
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\bin\Debug\MainPage.xbf
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\bin\Debug\AccountBook.xr.xml
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\bin\Debug\AccountBook.exe
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\bin\Debug\AccountBook.pdb
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\bin\Debug\resources.pri
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\bin\Debug\AppxManifest.xml
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\bin\Debug\AccountBook.build.appxrecipe
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\bin\Debug\QuickChartsWP.dll
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\bin\Debug\QuickChartsWP.pdb
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\bin\Debug\QuickChartsWP.pri
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\App.g.i.cs
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\App.g.cs
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\AddAccount.g.i.cs
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\AddAccount.g.cs
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\MainPage.g.i.cs
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\MainPage.g.cs
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\App.xaml
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\AddAccount.xaml
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\App.xbf
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\AddAccount.xbf
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\MainPage.xaml
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\MainPage.xbf
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\AccountBook.exe
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\AccountBook.pdb
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\AccountBook.csproj.GenerateResource.Cache
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\priconfig.xml
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\priconfig.xml.intermediate
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\layout.resfiles
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\layout.resfiles.intermediate
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\resources.resfiles
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\resources.resfiles.intermediate
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\pri.resfiles
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\pri.resfiles.intermediate
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\qualifiers.txt
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\QuickChartsWP.pri.xml
+C:\Users\Jain\Documents\Examples_24_1\AccountBook\AccountBook\obj\Debug\ProjectArchitectures.txt
